@@ -22,7 +22,7 @@ try:
 
 
 
-from rich.console import Console as sol
+
 
 from bs4 import BeautifulSoup as parser
 
