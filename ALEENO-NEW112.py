@@ -24,7 +24,7 @@ try:
 
 
 
-from bs4 import BeautifulSoup as parser
+
 
 from concurrent.futures import ThreadPoolExecutor as tred
 
