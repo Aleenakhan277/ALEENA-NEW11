@@ -30,7 +30,7 @@ try:
 
 
 
-try:ugen = open('user.txt','r').read().splitlines()
+
 
 except:ugen = ['Mozilla/4.1 (compatible; MSIE 5.0; Symbian OS; Nokia 7610;451) Opera 6.20'] #Aziz
 
