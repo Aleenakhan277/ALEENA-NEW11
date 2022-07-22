@@ -195,7 +195,7 @@ def menu(): #Bilo
 
 	
 
-		File2()
+		
 
 	elif farhan in ['0','00']:
 
