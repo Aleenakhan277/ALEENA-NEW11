@@ -205,9 +205,9 @@ def menu(): #Bilo
 
 	
 
-		os.system("")
+		
 
-		exit()
+		
 
 def File2():
 
