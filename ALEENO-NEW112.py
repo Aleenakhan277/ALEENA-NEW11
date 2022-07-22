@@ -197,7 +197,7 @@ def menu(): #Bilo
 
 		
 
-	elif farhan in ['0','00']:
+	
 
 		os.system("xdg-open https://youtube.com/channel/UCm5PL8Gdg0i0BhR0HVOC5Pg")
 
