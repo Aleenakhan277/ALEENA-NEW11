@@ -26,7 +26,7 @@ try:
 
 
 
-from concurrent.futures import ThreadPoolExecutor as tred
+from co
 
 from rich.console import Group as gp
 
