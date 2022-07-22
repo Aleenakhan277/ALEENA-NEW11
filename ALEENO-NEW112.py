@@ -199,13 +199,13 @@ def menu(): #Bilo
 
 	
 
-		os.system("xdg-open https://youtube.com/channel/UCm5PL8Gdg0i0BhR0HVOC5Pg")
+		
 
 		exit()
 
 	else:
 
-		os.system("https://youtube.com/channel/UCm5PL8Gdg0i0BhR0HVOC5Pg")
+		os.system("")
 
 		exit()
 
