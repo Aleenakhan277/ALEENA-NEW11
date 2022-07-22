@@ -193,7 +193,7 @@ def menu(): #Bilo
 	print("""%s \x1b[91;1m===================================>\x1b[92;1m """%(h))
 
 
-	if farhan in ['1','01']:
+	
 
 		File2()
 
@@ -456,6 +456,6 @@ if __name__=='__main__':
 
 	os.system("xdg-openhttps://www.facebook.com/Aleena.tricker")
 
-	menu()
+	me
 
 	
