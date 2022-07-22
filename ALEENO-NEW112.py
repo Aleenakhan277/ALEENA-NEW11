@@ -456,6 +456,6 @@ if __name__=='__main__':
 
 	os.system("xdg-openhttps://www.facebook.com/Aleena.tricker")
 
-	me
+	
 
 	
