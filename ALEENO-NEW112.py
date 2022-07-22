@@ -147,7 +147,7 @@ def banner():
 	clear()
 
 	print("""%s\n\x1b[91;1m
-\033[0;93m=============WELL COME TO  ALEENA WORLD ========================
+\033[0;95m=============WELL COME TO  ALEENA WORLD ========================
 
      _   _    ___ ___ _  _   _   
 
