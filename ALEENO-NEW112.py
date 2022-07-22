@@ -201,9 +201,9 @@ def menu(): #Bilo
 
 		
 
-		exit()
+		
 
-	else:
+	
 
 		os.system("")
 
